@@ -23,6 +23,6 @@ Please follow the below instructions to run this project in your machine:
 
 ## Contact
 
-forhad hossain - [pycoder028@gmail.com](mailto:pycoder028@gmail.com)
+Forhad Hossain - [pycoder028@gmail.com](mailto:pycoder028@gmail.com)
 
 Project Link: https://github.com/pycoder028/express-CRUD-operation.git
